@@ -1,4 +1,4 @@
-#compiled source #
+# Compiled source #
 ###################
 *.com
 *.class
@@ -35,9 +35,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# codekit #
-###########
-.sass-cache/
-.codekit-config.json
-config.codekit
